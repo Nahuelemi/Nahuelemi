@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy Nahuel Emiliano Blanco Giardini 👋
 
-<!--
-**Nahuelemi/Nahuelemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ingeniería en Informática** en la **Universidad de Buenos Aires (FIUBA)**. 
+Me apasiona el desarrollo de software, con un enfoque especial en la creación de videojuegos y la ciberseguridad.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 🎓 Actualmente cursando el 2º año de la carrera.
+- 🕹️ Desarrollando proyectos en **C++** y explorando entornos **Linux**.
+- 🌐 Conocimientos en desarrollo web (**HTML, CSS, JavaScript**).
+- 🎺 Además de la ingeniería, soy músico en la Orquesta Escuela Juvenil de San Telmo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** C++, JavaScript, HTML5, CSS3, SQL.
+- **Entornos:** Linux, Docker.
+- **Herramientas de desarrollo:** Git & GitHub, Visual Studio Code.
+
+## 📂 Proyectos destacados
+- **[Web App Grupal - Proyecto Princesas](https://github.com/oswald1511/Proyecto-princesas):** Desarrollo colaborativo de una interfaz web utilizando HTML, CSS, JavaScript y Docker.
+
+---
+📫 Cómo encontrarme: [nahue.emi18@gmail.com](mailto:nahue.emi18@gmail.com)
